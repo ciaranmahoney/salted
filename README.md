@@ -8,6 +8,31 @@ Original template by [Jason Rodriguez](https://github.com/rodriguezcommaj/salted
 
 ## Features 
 
+### Four content types with repeatable components
+
+* Full width section with a featured image on top.
+* Full width seciton with a featured image below.
+* Two column highlighted feature section.
+* Section for articles.
+
+### Each text block is editable
+Edit titles, buttons, links and images in each content type.
+
+## Setup 
+1. Copy the code from the html file.
+2. Create a new template in mailchimp - select the "Paste in Code" option. 
+3. Delete all exisiting code and paste the copied html code in.
+4. Click save.
+5. Create beautiful, responsive emails in Mailchimp!
+
+## Button editing is a little quirky
+
+It is easy to delete the button styles when you use Mailchimp's WYSIWYG to edit the button text. You're better off using the "source" editor when you want to change the button's text and destination url.
+
+## Screenshots
+
+
+
 ---
 **Original Readme for Salted below.**
 
