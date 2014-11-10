@@ -32,6 +32,7 @@ If you use Mailchimp's WYSIWYG to edit the button text or url, be careful not to
 ## Screenshots
 
 *Apple Mail*
+
 ![Apple Mail](https://github.com/ciaranmahoney/salted/blob/master/screenshots/apple-mail1.PNG "apple mail")
 
 ![Apple Mail](https://github.com/ciaranmahoney/salted/blob/master/screenshots/apple-mail3.PNG "apple mail")
@@ -39,13 +40,15 @@ If you use Mailchimp's WYSIWYG to edit the button text or url, be careful not to
 ![Apple Mail](https://github.com/ciaranmahoney/salted/blob/master/screenshots/apple-mail4.PNG "apple mail")
 
 *Gmail Desktop*
-![Gmail Desktop](https://github.com/ciaranmahoney/salted/blob/master/screenshots/gmail-desktop1.PNG "Gmail desktop")
 
-![Gmail Desktop](https://github.com/ciaranmahoney/salted/blob/master/screenshots/gmail-desktop2.PNG "Gmail desktop")
+![Gmail Desktop](https://github.com/ciaranmahoney/salted/blob/master/screenshots/gmail-desktop1.png "Gmail desktop")
 
-![Gmail Desktop](https://github.com/ciaranmahoney/salted/blob/master/screenshots/gmail-desktop3.PNG "Gmail desktop")
+![Gmail Desktop](https://github.com/ciaranmahoney/salted/blob/master/screenshots/gmail-desktop2.png "Gmail desktop")
+
+![Gmail Desktop](https://github.com/ciaranmahoney/salted/blob/master/screenshots/gmail-desktop3.png "Gmail desktop")
 
 *Gmail iOS*
+
 ![Gmail iOS](https://github.com/ciaranmahoney/salted/blob/master/screenshots/gmail-ios1.PNG "Gmail iOS")
 
 ![Gmail iOS](https://github.com/ciaranmahoney/salted/blob/master/screenshots/gmail-ios2.PNG "Gmail iOS")
