@@ -1,8 +1,6 @@
 # Salted for Mailchimp
 
-## Salted responsive email template with Mailchimp section tags
-
-All I did was add Mailchimnp tags so I could use this template in my campaigns... Most of the credit goes to the guys mentioned below.
+I liked the look of Salted so I added Mailchimp tags so I could use this template in my campaigns... Most of the credit goes to the guys mentioned below.
 
 Original template by [Jason Rodriguez](https://github.com/rodriguezcommaj/salted).
 
