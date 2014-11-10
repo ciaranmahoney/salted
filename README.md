@@ -27,11 +27,30 @@ Edit titles, buttons, links and images in each content type.
 
 ## Button editing is a little quirky
 
-It is easy to delete the button styles when you use Mailchimp's WYSIWYG to edit the button text. You're better off using the "source" editor when you want to change the button's text and destination url.
+If you use Mailchimp's WYSIWYG to edit the button text or url, be careful not to delete the styles. You're better off using the "source" editor when you want to change the button's text and destination url.
 
 ## Screenshots
 
+*Apple Mail*
+![Apple Mail](https://github.com/ciaranmahoney/salted/blob/master/screenshots/apple-mail1.PNG "apple mail")
 
+![Apple Mail](https://github.com/ciaranmahoney/salted/blob/master/screenshots/apple-mail3.PNG "apple mail")
+
+![Apple Mail](https://github.com/ciaranmahoney/salted/blob/master/screenshots/apple-mail4.PNG "apple mail")
+
+*Gmail Desktop*
+![Gmail Desktop](https://github.com/ciaranmahoney/salted/blob/master/screenshots/gmail-desktop1.PNG "Gmail desktop")
+
+![Gmail Desktop](https://github.com/ciaranmahoney/salted/blob/master/screenshots/gmail-desktop2.PNG "Gmail desktop")
+
+![Gmail Desktop](https://github.com/ciaranmahoney/salted/blob/master/screenshots/gmail-desktop3.PNG "Gmail desktop")
+
+*Gmail iOS*
+![Gmail iOS](https://github.com/ciaranmahoney/salted/blob/master/screenshots/gmail-ios1.PNG "Gmail iOS")
+
+![Gmail iOS](https://github.com/ciaranmahoney/salted/blob/master/screenshots/gmail-ios2.PNG "Gmail iOS")
+
+![Gmail iOS](https://github.com/ciaranmahoney/salted/blob/master/screenshots/gmail-ios3.PNG "Gmail iOS")
 
 ---
 **Original Readme for Salted below.**
