@@ -9,7 +9,7 @@ Original template by [Jason Rodriguez](https://github.com/rodriguezcommaj/salted
 ### Four content types with repeatable components
 
 * Full width section with a featured image on top.
-* Full width seciton with a featured image below.
+* Full width section with a featured image below.
 * Two column highlighted feature section.
 * Section for articles.
 
