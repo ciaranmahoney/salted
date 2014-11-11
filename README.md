@@ -16,12 +16,16 @@ Original template by [Jason Rodriguez](https://github.com/rodriguezcommaj/salted
 ### Each text block is editable
 Edit titles, buttons, links and images in each content type.
 
+### Version with A/B testing tags
+Always be testing, right?! So I created a version with the entire template duplicated and each copy wrapped in MailChimp's A/B testing tags. For more info about how MailChimp does A/B testing, [read here](http://kb.mailchimp.com/campaigns/ab-split/getting-started-with-a-b-split-campaigns).
+
 ## Setup 
 1. Copy the code from the html file.
 2. Create a new template in mailchimp - select the "Paste in Code" option. 
-3. Delete all exisiting code and paste the copied html code in.
+3. Delete all existing code and paste the copied html code in.
 4. Click save.
 5. Create beautiful, responsive emails in Mailchimp!
+6. If you want to use the A/B testing functionality, create and A/B split campaign and just create two version of your email. They will look like they are just one email in the editing screen, but they will be split when sent. You can send test emails of each version to ensure they work properly.
 
 ## Button editing is a little quirky
 
