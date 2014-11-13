@@ -1,6 +1,6 @@
-# Salted for Mailchimp
+# Salted for MailChimp
 
-I liked the look of Salted so I added Mailchimp tags so I could use this template in my campaigns... Most of the credit goes to the guys mentioned below.
+I liked the look of Salted so I added MailChimp tags so I could use this template in my campaigns... Most of the credit goes to the guys mentioned below.
 
 Original template by [Jason Rodriguez](https://github.com/rodriguezcommaj/salted).
 
@@ -12,6 +12,7 @@ Original template by [Jason Rodriguez](https://github.com/rodriguezcommaj/salted
 * Full width section with a featured image below.
 * Two column highlighted feature section.
 * Section for articles.
+* 
 
 ### Each text block is editable
 Edit titles, buttons, links and images in each content type.
@@ -19,17 +20,20 @@ Edit titles, buttons, links and images in each content type.
 ### Version with A/B testing tags
 Always be testing, right?! So I created a version with the entire template duplicated and each copy wrapped in MailChimp's A/B testing tags. For more info about how MailChimp does A/B testing, [read here](http://kb.mailchimp.com/campaigns/ab-split/getting-started-with-a-b-split-campaigns).
 
+### Version with RSS tags
+These tags will bring in the title, an excerpt, an image (if it's setup) and provide a read more link to the post. It can be a little quirky, depending on how your RSS feed is setup. If you want to tweak it, read MailChimp's [RSS feeds](http://kb.mailchimp.com/merge-tags/rss-merge-tags) kb article.
+
 ## Setup 
 1. Copy the code from the html file.
-2. Create a new template in mailchimp - select the "Paste in Code" option. 
+2. Create a new template in MailChimp - select the "Paste in Code" option. 
 3. Delete all existing code and paste the copied html code in.
 4. Click save.
-5. Create beautiful, responsive emails in Mailchimp!
+5. Create beautiful, responsive emails in MailChimp!
 6. If you want to use the A/B testing functionality, create and A/B split campaign and just create two version of your email. They will look like they are just one email in the editing screen, but they will be split when sent. You can send test emails of each version to ensure they work properly.
 
 ## Button editing is a little quirky
 
-If you use Mailchimp's WYSIWYG to edit the button text or url, be careful not to delete the styles. You're better off using the "source" editor when you want to change the button's text and destination url.
+If you use MailChimp's WYSIWYG to edit the button text or url, be careful not to delete the styles. You're better off using the "source" editor when you want to change the button's text and destination url.
 
 ## Screenshots
 
@@ -72,7 +76,7 @@ A lot of web designers are surprised by some of the stuff going on in HTML email
 
 ### Stacked Tables
 
-At [Litmus](http://litmus.com), we love modularity. Being able to easily swap out pieces of our emails and work on sections in isolation is very important. Therefore, we tend not to nest tables too deep. Each horizontal section of the Salted template is its own table. You will find modules for a main hero section,  a single-column copy section, a two column grid section, and an article listing section, as well as both a header and footer.
+At [Litmus](http://litmus.com), we love modularity. Being able to easily swap out pieces of our emails and work on sections in isolation is very important. Therefore, we tend not to nest tables too deep. Each horizontal section of the Salted template is its own table. You will find modules for a main hero section,  a single-column copy section, a two-column grid section, and an article listing section, as well as both a header and footer.
 
 Feel free to swap them out and adjust for your own purposes.
 
@@ -103,3 +107,4 @@ While this code has been tested thoroughly through countless Litmus newsletter s
 Naturally, I suggest sending your campaigns through [Litmus](http://litmus.com) for testing on dozens of different clients. It’s always a good idea to test on as many real devices as possible, too.
 
 Enjoy!
+
